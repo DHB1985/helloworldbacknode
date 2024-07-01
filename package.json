@@ -1,0 +1,14 @@
+{
+  "name": "helloworldbacknode",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Daniel Barbieri <90072728+DHB1985@users.noreply.github.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "nodemon": "^3.1.4"
+  }
+}
